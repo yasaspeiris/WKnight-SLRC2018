@@ -9,7 +9,7 @@ The structure of this repo is as follows.
 Parts - Contains the STL files for the 3D printable parts. This includes the base, coin picking mechanism and gearing system.
 
 
-![1548419895802118](https://user-images.githubusercontent.com/20635670/51747538-d11a6d80-20cf-11e9-88c0-8bc7d6dc6ef2.jpeg)
+![3dp](https://user-images.githubusercontent.com/20635670/51748099-6407d780-20d1-11e9-87e5-ea295178b698.jpg)
 
 
 SLRC2019 - This folder contains the code (for an Atmega2560). Each core component is split into a seperate .ino file. 
