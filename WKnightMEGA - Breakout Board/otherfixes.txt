@@ -1,0 +1,1 @@
+buzzer is wired to pin 11. Since pin 11 is connected to timer1, arduino tone library wont work with this pin.
